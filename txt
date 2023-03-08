@@ -25,6 +25,10 @@ git remote -> para ver se deu Certo
 git remote -v -> mostra as duas opções que tenho fech e puxar do repositorio remoto e push levar do meu pc para o remoto
 git push -u origin main -> enviar
 
+Sempre que alterar algo tem que fazer, branch e "main" mas pode alterar
+git commit -am "mensagem"
+git push -u origin main
+
 
 Voltar para o commit de sua escolha
 git reset --soft numerodoCommit-> volta antes do commit - porém sem apagar as alterações e sem commitar, status antes do commit - indicado para trab em Equipe
