@@ -27,5 +27,5 @@ README -> Comentário e instruções
 Commit -> Enviar as modificações 
 
 git branch -> para saber onde estamos, tipo todos os branchs
-git branch nomeDoNovo -> criar um novo
+git branch nomeDoNovo -> criar um novo ele importa o que tem no outro
 git checkout nomeDoBranch -> mudar de branch
