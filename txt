@@ -1,0 +1,17 @@
+git config --global user.name "André Machado" - cadastrar o nome
+git config --global user.email "andre_almac@outlook.com" -> cadastrar o email
+git config --global core.editor vscode -> cadastrar o editor de code
+git config user.name -> ver o nome cadastrado
+git config --list -> ver tudo
+
+cd C:/Users -> navegar entre pastas
+dir ou ls -> ver o quem tem na pasta
+cd .. -> voltar 
+git init -> iniciar o repositório
+git status -> mostra os arquivos
+git add nome do arquivo -> adicionando um por um
+git add -A -> adiciona todos que não estão track
+
+Branch -> versões diferentes do meu sistema "master" é o principal
+README -> Comentário e instruções
+Commit -> Enviar as modificações 
