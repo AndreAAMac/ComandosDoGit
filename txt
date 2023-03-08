@@ -16,6 +16,7 @@ git commit -m "mensagem" -> realizar o commit
 git log -> ver todos os commit feitos - o que importa e os 7 primeiros dígitos gerados pelo commit
 git branch -> para saber onde estamos, tipo todos os branchs
 git commit -am "mensagem" -> Não quer passar pelo add
+git diff -> ver o que foi alterado no arquivo
 
 Voltar para o commit de sua escolha
 git reset --soft numerodoCommit-> volta antes do commit - porém sem apagar as alterações e sem commitar, status antes do commit - indicado para trab em Equipe
@@ -29,3 +30,5 @@ Commit -> Enviar as modificações
 git branch -> para saber onde estamos, tipo todos os branchs
 git branch nomeDoNovo -> criar um novo ele importa o que tem no outro
 git checkout nomeDoBranch -> mudar de branch
+
+
