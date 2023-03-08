@@ -26,3 +26,6 @@ Branch -> versões diferentes do meu sistema "master" é o principal
 README -> Comentário e instruções
 Commit -> Enviar as modificações 
 
+git branch -> para saber onde estamos, tipo todos os branchs
+git branch nomeDoNovo -> criar um novo
+git checkout nomeDoBranch -> mudar de branch
