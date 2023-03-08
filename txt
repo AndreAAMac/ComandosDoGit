@@ -17,6 +17,11 @@ git log -> ver todos os commit feitos - o que importa e os 7 primeiros dígitos 
 git branch -> para saber onde estamos, tipo todos os branchs
 git commit -am "mensagem" -> Não quer passar pelo add
 
+Voltar para o commit de sua escolha
+git reset --soft numerodoCommit-> volta antes do commit - porém sem apagar as alterações e sem commitar, status antes do commit - indicado para trab em Equipe
+git reset --mixed numerodoCommit-> volta antes do add 
+git reset --hard numerodoCommit-> volta para o ultimo commit e apaga o da frente - Usado para cando não estiver em equipe
+
 Branch -> versões diferentes do meu sistema "master" é o principal
 README -> Comentário e instruções
 Commit -> Enviar as modificações 
