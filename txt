@@ -7,12 +7,15 @@ git config --list -> ver tudo
 cd C:/Users -> navegar entre pastas
 dir ou ls -> ver o quem tem na pasta
 cd .. -> voltar 
+
 git init -> iniciar o repositório
 git status -> mostra os arquivos
 git add nome do arquivo -> adicionando um por um
 git add -A -> adiciona todos que não estão track
 git commit -m "mensagem" -> realizar o commit
-git log -> ver todos os commit feitos
+git log -> ver todos os commit feitos - o que importa e os 7 primeiros dígitos gerados pelo commit
+git branch -> para saber onde estamos, tipo todos os branchs
+git commit -am "mensagem" -> Não quer passar pelo add
 
 Branch -> versões diferentes do meu sistema "master" é o principal
 README -> Comentário e instruções
