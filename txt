@@ -11,6 +11,8 @@ git init -> iniciar o repositório
 git status -> mostra os arquivos
 git add nome do arquivo -> adicionando um por um
 git add -A -> adiciona todos que não estão track
+git commit -m "mensagem" -> realizar o commit
+git log -> ver todos os commit feitos
 
 Branch -> versões diferentes do meu sistema "master" é o principal
 README -> Comentário e instruções
