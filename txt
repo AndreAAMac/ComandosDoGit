@@ -28,6 +28,7 @@ git push -u origin main -> enviar
 Sempre que alterar algo tem que fazer, branch e "main" mas pode alterar
 git commit -am "mensagem"
 git push -u origin main
+git push origin main
 
 
 Voltar para o commit de sua escolha
