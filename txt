@@ -24,6 +24,7 @@ git remote add origin https://github.com/AndreAAMac/ComandosDoGit.git -> criar o
 git remote -> para ver se deu Certo
 git remote -v -> mostra as duas opções que tenho fech e puxar do repositorio remoto e push levar do meu pc para o remoto
 git push -u origin main -> enviar
+git pull origin main -> puxar arquivos no meu reppositorio remoto para o local
 
 Sempre que alterar algo tem que fazer, branch e "main" mas pode alterar
 git commit -am "mensagem"
