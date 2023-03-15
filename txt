@@ -46,7 +46,9 @@ Commit -> Enviar as modificações
 git branch -> para saber onde estamos, tipo todos os branchs
 git branch nomeDoNovo -> criar um novo ele importa o que tem no outro
 git checkout nomeDoBranch -> mudar de branch
- -> Excluir um branch
+git push origin nomeBranch -> Transferir os arquivos para o branch
+git push origin :nomeBranch -> Excluir um branch remoto
+git branch -D nomeBranch -> Excluir um branch local
 
 criar um arquivo .gitignore - para ocultar arquivos
 dentro do arquivo é so colocar o nomeDoArquivo.extensão
