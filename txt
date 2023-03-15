@@ -56,5 +56,17 @@ dentro do arquivo é so colocar o nomeDoArquivo.extensão
 *.sql - qualquer arquivo sql
 qualquer/* - qualquer arquivo que estiver nesta pasta
 
+CLONAR PROJETOS
+git clone url:QueEuQueroClonar
+
+Contribuir com outros projetos
+Click em fork 
+Clona o repositorio
+git branch -> ver o nome 
+git remove -v
+git push origin nomeBranch
+new pull request -> para enviar para o projeto, verificar merge
+create pull request
+
 
 
