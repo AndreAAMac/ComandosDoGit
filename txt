@@ -36,6 +36,9 @@ git reset --soft numerodoCommit-> volta antes do commit - porém sem apagar as a
 git reset --mixed numerodoCommit-> volta antes do add 
 git reset --hard numerodoCommit-> volta para o qualquer commit e apaga o resto - Evite usar
 
+Reverter um commit commit
+git revert --no-edit codigoDoCommitParaAlterar
+
 Branch -> versões diferentes do meu sistema "master" é o principal
 README -> Comentário e instruções
 Commit -> Enviar as modificações 
@@ -43,9 +46,12 @@ Commit -> Enviar as modificações
 git branch -> para saber onde estamos, tipo todos os branchs
 git branch nomeDoNovo -> criar um novo ele importa o que tem no outro
 git checkout nomeDoBranch -> mudar de branch
+ -> Excluir um branch
 
 criar um arquivo .gitignore - para ocultar arquivos
 dentro do arquivo é so colocar o nomeDoArquivo.extensão
+*.sql - qualquer arquivo sql
+qualquer/* - qualquer arquivo que estiver nesta pasta
 
 
 
